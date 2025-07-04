@@ -1,0 +1,3 @@
+displayName = Friendly Green Slime
+author = neerayel
+version = 0.2.1

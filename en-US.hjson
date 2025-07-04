@@ -1,0 +1,33 @@
+Mods: {
+	FriendlyGreenSlime: {
+		Items: {
+			ThrowableSlimeEnemy: {
+				DisplayName: Throwable Slime Enemy
+				Tooltip: ""
+			}
+
+			ThrowableSlimeFriendly: {
+				DisplayName: Throwable Slime Friendly
+				Tooltip: ""
+			}
+
+			ThrowableFriendlyGreenSlime: {
+				Tooltip: ""
+				DisplayName: Throwable Friendly Green Slime
+			}
+
+			ThrowableEvilGreenSlime: {
+				Tooltip: ""
+				DisplayName: Throwable Evil Green Slime
+			}
+		}
+
+		NPCs.FriendlySlime.DisplayName: Friendly Slime
+
+		Projectiles: {
+			ThrowableSlimeEnemy.DisplayName: Throwable Slime Enemy
+			ThrowableSlimeFriendly.DisplayName: Throwable Slime Friendly
+			TransparentProjectile.DisplayName: Transparent Projectile
+		}
+	}
+}
